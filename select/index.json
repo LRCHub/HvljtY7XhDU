@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "少しだけ",
+  "base_artist": "五十嵐ハル",
+  "createdAt": "2026-02-12T12:53:06.300166Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "少しだけ",
+      "artist": "五十嵐ハル",
+      "has_synced": true,
+      "path": "select/01_少しだけ_五十嵐ハル.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "少しだけ、美しく",
+      "artist": "Kinoshita Momoka",
+      "has_synced": true,
+      "path": "select/02_少しだけ、美しく_Kinoshita_Momoka.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "少しだけ - Just a little",
+      "artist": "五十嵐ハル",
+      "has_synced": false,
+      "path": "select/03_少しだけ_-_Just_a_little_五十嵐ハル.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トラック5：私のひとりごと……少しだけ、言わせてほしい。",
+      "artist": "きらきらおんぷ",
+      "has_synced": true,
+      "path": "select/04_トラック5_私のひとりごと......少しだけ、言わせてほしい。_きらきらおんぷ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Track.03『少しだけ、日常に逃げたくて』カラオケデート・キス",
+      "artist": "おほ声の館",
+      "has_synced": true,
+      "path": "select/05_Track.03『少しだけ、日常に逃げたくて』カラオケデート・キス_おほ声の館.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少しだけ",
+      "artist": "五十嵐ハル",
+      "has_synced": false,
+      "path": "select/pl_01_少しだけ_五十嵐ハル.txt"
+    }
+  ]
+}
